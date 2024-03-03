@@ -79,7 +79,7 @@ I have set goals for the project alongside the user stories, which are based on 
 
 - Company Values
 
-    Including a section about company values will help people connect with the park and site. I have strong environmental values and would like to promote conservation and sustainable practices. This is something I intend to mention on the site. Many mountain bikers share these values as they love to spend time in nature and therefor want to protect it. So I think these values are well-aligned to the target audience.
+    Including a section about company values will help people connect with the park and site. I have strong environmental values and would like to promote conservation and sustainable practices. This is something I intend to mention on the site. Many mountain bikers share these values as they love to spend time in nature and therefore want to protect it. So I think these values are well-aligned to the target audience.
 
         WORK IN PROGRESS
     - Meta tags
